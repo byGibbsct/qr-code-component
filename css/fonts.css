@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Outfit';
+  font-weight: 400;
+  src:
+    url("../assets/fonts/outfit/ttf/outfit-latin-400-normal.ttf") format("truetype"),
+    url("../assets/fonts/outfit/webfonts/outfit-latin-400-normal.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Outfit';
+  font-weight: 700;
+  src:
+    url("../assets/fonts/outfit/ttf/outfit-latin-700-normal.ttf") format("truetype"),
+    url("../assets/fonts/outfit/webfonts/outfit-latin-700-normal.woff2") format("woff2"),
+    url("../assets/fonts/outfit/webfonts/outfit-latin-700-normal.woff") format("woff");
+}
