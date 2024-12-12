@@ -44,7 +44,7 @@ body {
 }
 
 .card__qr-code {
-  border-radius: 20px;
+  border-radius: 10px;
   margin: 0 0 var(--spacing-300);
 }
 
@@ -53,5 +53,5 @@ body {
   flex-direction: column;
   row-gap: var(--spacing-300);
   text-align: center;
-  padding: 0 var(--spacing-100);
+  padding: 0 var(--spacing-200);
 }
